@@ -1,2 +1,2 @@
-# Extend-Kalman-Filter
-Extend-Kalman-Filter
+# Extended-Kalman-Filter
+Extended-Kalman-Filter
